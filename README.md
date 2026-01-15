@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Top Langs](./assets/top-langs.png)](https://github.com/mahmoudhalim)
+[![Top Langs](./assets/top-langs.svg)](https://github.com/mahmoudhalim)
 
 <!--
 Here are some ideas to get you started:
